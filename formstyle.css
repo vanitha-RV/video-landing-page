@@ -1,0 +1,28 @@
+*
+{
+
+    margin:0;padding:0;
+    margin-left:20px;
+
+
+}
+
+form{
+    background-color: burlywood;
+    border: 2px solid green;
+    height:100vh;
+    margin-top:40px;
+    margin-left:40px;
+    width:50% ;
+
+}
+label{
+    display: block;
+}
+input {
+    margin: left 25px;
+    height:25px;
+    border:2px solid red;
+    color:navy;
+
+}
